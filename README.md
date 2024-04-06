@@ -1,5 +1,2 @@
 # Python For Data Analyst_1
-Introduction to Python for Data Analyst week 1 : 
-
-
-  
+Hello EveryGitHub!," Welcome to Learning Python for Data Analyst Part 1 "
