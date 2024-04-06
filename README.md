@@ -86,13 +86,13 @@ The break statement stops the loop and exits, followed by executing the statemen
 ## Cotinue
 In Python Continue statement is a loop control statement that forces to execute the next iteration of the loop while skipping the rest of the code inside the loop for the current iteration only, i.e. when the continue statement is executed in the loop, the code inside the loop following the continue statement will be skipped for the current iteration and the next iteration of the loop will 
 
-#### While 
+## While 
 While loop in Python iterates through a block of code as long as the specified condition is true. It consists of the keyword "while" followed by a condition. The code inside the loop continues to execute as long as the condition remains true.
 
 Syntax of basic list comprehension in Python : 
 “while condition:”
     				# Code block to be executed repeatedly
-#### List Comprehension
+## List Comprehension
 List comprehension in Python allows for the concise creation of new lists by condensing the syntax of a for loop and condition into a single line, improving code efficiency and clarity. It's particularly useful for data transformation, filtering, or creating lists based on existing ones.
 
 Syntax of basic list comprehension in Python: “new_list = [expression for an item in iterable]” 
